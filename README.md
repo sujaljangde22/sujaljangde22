@@ -1,10 +1,19 @@
 # Hi, I’m Sujal Jangde
 
-I build small browser games and practice competitive programming in Python.
+I’m exploring programming, game development, and quantitative research. I practice problem solving in Python on [Codeforces](https://codeforces.com/profile/sujaljangde).
 
 ## Projects
 
-- **[One More Loop](https://one-more-loop.vercel.app/)** — A four-room puzzle game where ghosts replay your past moves. Built with vanilla JavaScript and playable with a keyboard or touch controls.
-- **[Digital Detective](https://github.com/sujaljangde22/digital-detective-8452)** — A hands-on coursework project covering the terminal, Git, networking, and data representation. Includes a Python tool that converts decimal numbers to binary and hexadecimal.
+### One More Loop
 
-I practice algorithmic problem solving on [Codeforces](https://codeforces.com/profile/sujaljangde).
+I built a mini puzzle game in JavaScript where ghosts replay your previous moves. Use those replays to solve four rooms with a keyboard or touch controls.
+
+[Play One More Loop](https://one-more-loop.vercel.app/)
+
+## What I’m exploring
+
+I’m learning how to turn market ideas into testable signals and evaluate them using WorldQuant BRAIN.
+
+## College coursework
+
+[Digital Detective](https://github.com/sujaljangde22/digital-detective-8452) is a college assignment covering the terminal, Git, networking, and how computers represent data. It includes a small Python number converter.
